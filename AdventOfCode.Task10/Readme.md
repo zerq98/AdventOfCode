@@ -1,4 +1,4 @@
-﻿# Day 1: Calorie Counting
+﻿# Day 10: Cathode-Ray Tube
 
 You avoid the ropes, plunge into the river, and swim to shore.<br>
 
